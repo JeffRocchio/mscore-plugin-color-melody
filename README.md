@@ -1,5 +1,5 @@
 # mscore-plugin-color-melody
-This is a Musescore QML plugin script that naively colors the melody-lines on a standard notation chord-melody staff.
+This is a Musescore QML plugin script that naively colors the melody-line on a standard notation chord-melody staff.
 
 Music Composition & Notation
 
